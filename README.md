@@ -1,0 +1,2 @@
+# intall_app_in_ubuntu_tutorial
+Some frequent application installation tutorial

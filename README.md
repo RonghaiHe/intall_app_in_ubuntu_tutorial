@@ -4,7 +4,13 @@
 - [ToDesk](https://www.todesk.com/linux.html)
 - [向日葵/SunloginClient](https://sunlogin.oray.com/download/linux?type=personal)
 
-## 网络
+## IDE
+[vscode(中文教程)](https://blog.csdn.net/qq_43561914/article/details/116804531)
+
+## 机器人/Robotics
+[ROS(鱼香ROS一键安装)](http://fishros.com/install)
+
+## 网络/Network
 - [clash安装教程(中文)](https://zhuanlan.zhihu.com/p/693754050), [clash](https://github.com/doreamon-design/clash/releases)
 
 ## 搜狗输入法（Chinese）

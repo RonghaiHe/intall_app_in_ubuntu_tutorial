@@ -15,3 +15,10 @@
 
 ## 搜狗输入法（Chinese）
 - [搜狗下载界面](https://shurufa.sogou.com/linux) 和 [搜狗安装指导](https://shurufa.sogou.com/linux/guide)(点击下载后会自动跳转，注意先安装依赖)
+
+## 可拆分的终端(其中一种)/One of terminals that able to split
+```bash
+sudo add-apt-repository ppa:gnome-terminator
+sudo apt-get update
+sudo apt-get install terminator
+```

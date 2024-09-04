@@ -3,6 +3,13 @@
 ## 远程/Remote
 - [ToDesk](https://www.todesk.com/linux.html)
 - [向日葵/SunloginClient](https://sunlogin.oray.com/download/linux?type=personal)
+- [zerotier](https://www.zerotier.com/download) 一种远程连接局域网外的服务器的工具 / One of tools that help remotely connect to a server outside the LAN
+
+  TL;DR:
+  ```bash
+  curl -s https://install.zerotier.com | sudo bash
+  sudo zerotier-cli join {codes} # Join a network
+  ```
 
 ## IDE
 [vscode(中文教程)](https://blog.csdn.net/qq_43561914/article/details/116804531)

@@ -18,7 +18,10 @@
 [ROS(鱼香ROS一键安装)](http://fishros.com/install)
 
 ## 网络/Network
-- [clash安装教程(中文)](https://zhuanlan.zhihu.com/p/693754050), [clash](https://github.com/doreamon-design/clash/releases)
+### clash
+1. (With UI) [clash安装教程(中文)](https://zhuanlan.zhihu.com/p/698175170), [clash](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+   - Download `.deb` and `sudo apt install ./clash*`
+3. (Without UI) [clash安装教程(中文)](https://zhuanlan.zhihu.com/p/693754050), [clash](https://github.com/doreamon-design/clash/releases)
 
 ## 搜狗输入法（Chinese）
 - [搜狗下载界面](https://shurufa.sogou.com/linux) 和 [搜狗安装指导](https://shurufa.sogou.com/linux/guide)(点击下载后会自动跳转，注意先安装依赖)

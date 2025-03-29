@@ -1,8 +1,11 @@
 # ubuntu下载常用软件资源&教程 / intall_app_in_ubuntu_resource&tutorial
 
 ## 远程/Remote
+远程桌面 / Remote the desktop
 - [ToDesk](https://www.todesk.com/linux.html)
 - [向日葵/SunloginClient](https://sunlogin.oray.com/download/linux?type=personal)
+
+### 内网穿透工具 / NAT Traversal
 - [zerotier](https://www.zerotier.com/download) 一种远程连接局域网外的服务器的工具 / One of tools that help remotely connect to a server outside the LAN
 
   TL;DR:
@@ -10,6 +13,8 @@
   curl -s https://install.zerotier.com | sudo bash
   sudo zerotier-cli join {codes} # Join a network
   ```
+- [NATAPP](https://natapp.cn/)，但是需要获取端口号 / But need the port
+
 
 ## IDE
 [vscode(中文教程)](https://blog.csdn.net/qq_43561914/article/details/116804531)
